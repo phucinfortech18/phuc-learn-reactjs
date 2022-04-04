@@ -7,6 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Anh Phuc Learn ReactJS!!!! new new</p>
+
+        <div>Learn Git </div>
       </header>
     </div>
   );
