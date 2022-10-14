@@ -6,8 +6,8 @@ import AlbumFeature from "./features/Album";
 function App() {
   return (
     <div className="App">
-      {/* <TodoFeature /> */}
-      <AlbumFeature />
+      <TodoFeature />
+      {/* <AlbumFeature /> */}
     </div>
   );
 }
